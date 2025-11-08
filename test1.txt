@@ -1,0 +1,27 @@
+git clone code
+cd githubmohan1
+git status
+git add test2.txt
+git status
+git commit -m "test2.txt file added"
+git push origin main
+
+
+delete
+//
+git add test3.txt
+git commit -m "deleted test3.txt file"
+git push origin main
+
+
+git pull
+ 
+ cd ..            ...... back pannum
+ cd git.error      ......... file name add pannum
+git init          ......install empty git
+git add .          ...... all modified files a total a staging area ulla kondu pogum
+git commit -m "Created  index.html and style.css"
+git remote add origin code
+git branch         .......... master new name
+git branch -m main      ............. change master to main
+git push origin main
